@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/github.com/PuerkitoBio/goquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/andybalholm/cascadia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/ant0ine/go-json-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/antchfx/htmlquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/antchfx/xmlquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/antchfx/xpath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/beego/bee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/bilibili/kratos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/fatih/color" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gobwas/glob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gocolly/colly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/jawher/mow.cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/kennygrant/sanitize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/saintfish/chardet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shiena/ansicolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/temoto/robotstxt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/urfave/cli" vcs="Git" />
+  </component>
+</project>
